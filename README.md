@@ -2,17 +2,17 @@
 
 # ![Jamdocs](https://github.com/samuelhorn/jamdocs/blob/master/src/assets/img/logo-dark.svg)
 
-The ultimate static generated documentation theme for the JAM-stack. Highly customizable, based on Gridsome, ready to deploy to Netlify in one click. [DEMO](https://jamdocs.samuelhorn.com/)
+Окончательная статическая сгенерированная тема документации для JAM-стека. Широкие возможности настройки на основе Gridsome, готовые к развертыванию в Netlify одним щелчком мыши. [DEMO](https://jamdocs.samuelhorn.com/)
 
-_Beware, Jamdocs is still in heavy development and will probably change a lot in the near future. And the docs for it is still not completed._
+_Остерегайтесь, Jamdocs все еще находится в стадии интенсивной разработки и, вероятно, в ближайшем будущем многое изменится. И документация к нему все еще не завершена.
 
-## Fast by default
+## Быстро по умолчанию
 
-Jamdocs is optimized to be as fast as possible, right now generating 100/100/100/100 score in Google Lighthouse. And 100/100 score in Google Page Speed Insights.
+Jamdocs оптимизирован, чтобы работать как можно быстрее, сейчас он набирает 100/100/100/100 баллов в Google Lighthouse. И оценка 100/100 в Google Page Speed ​​Insights.
 
 ![100/100/100/100 Lighthouse scores](https://github.com/samuelhorn/jamdocs/blob/master/src/assets/img/pagespeed.png)
 
-## Local installation for development
+## Локальная установка для разработки
 
 1. `git clone https://github.com/samuelhorn/jamdocs project-name`.
 2. `cd project-name`
@@ -22,38 +22,38 @@ Jamdocs is optimized to be as fast as possible, right now generating 100/100/100
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/samuelhorn/jamdocs)
 
-## Import to Forestry CMS
+## Импорт в Forestry CMS
 
 [![](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=samuelhorn/jamdocs&engine=other "Import to Forestry")
 
-This project has been pre-configured to work with [Forestry](https://forestry.io). Any changes you make in Forestry will be commited back to your repo. ✨
+Этот проект был предварительно настроен для работы с[Forestry](https://forestry.io). Любые изменения, внесенные вами в Forestry, будут возвращены в ваше репо. ✨
 
-![Forestry documentation in JAMdocs](static/screenshor-forestry-preview.png)
+![Документация по лесному хозяйству в JAMdocs в JAMdocs](static/screenshor-forestry-preview.png)
 
-## Setup & configuration
+## Установка и настройка
 
-See the [demo](https://jamdocs.samuelhorn.com/), which is also the documentation, obviously!
+Увидеть [demo](https://jamdocs.samuelhorn.com/), что, очевидно, также является документацией!
 
 ## Todos
 
-1. Improve the actual documentation for Jamdocs, in Jamdocs :)
-2. ~~Build the homepage better, dividing stuff into components and so on.~~
-3. Implement Algolia search.
-4. ~~Add a link to this repository from the demo.~~
+1. Улучшите фактическую документацию для Jamdocs, в Jamdocs :)
+2. ~~Улучшите домашнюю страницу, разделив все на компоненты и так далее.~~
+3. Реализуйте поиск Algolia.
+4. ~~Добавьте ссылку на этот репозиторий из демо.~~
 
 ## Credits
+Кредиты
+* Кредитыthe [Netlify](https://www.netlify.com/) team for making an awesome all in one hosting soluiton for the JAM-stack.
+* Займы [Gridsome](https://gridsome.org/) team for developing a great foundation to build static sites.
+* Кредиты[Evan You](https://twitter.com/youyuxi) for making [Vue](https://vuejs.org/).
+* кредиты[Cole Bemis](https://twitter.com/colebemis) for making [feathericons](https://feathericons.com/), my favourite icon set.
+* Кредиты[Egoist](https://github.com/egoist),кто не настолько эгоистичен. Потому что он сделал [vue-feather-icons](https://github.com/egoist/vue-feather-icons).
+* Кредиты[Forestry](https://forestry.io/) для доработки конфигурации Forestry и написания об этом в документации, добавив своиgreat Headless CMS к миксу.
+## Лицензия
 
-* Creds to the [Netlify](https://www.netlify.com/) team for making an awesome all in one hosting soluiton for the JAM-stack.
-* Creds to the [Gridsome](https://gridsome.org/) team for developing a great foundation to build static sites.
-* Creds to [Evan You](https://twitter.com/youyuxi) for making [Vue](https://vuejs.org/).
-* Creds to [Cole Bemis](https://twitter.com/colebemis) for making [feathericons](https://feathericons.com/), my favourite icon set.
-* Creds to [Egoist](https://github.com/egoist), who's not that egoistic. Because he made [vue-feather-icons](https://github.com/egoist/vue-feather-icons).
-* Creds to [Forestry](https://forestry.io/) for finalizing the Forestry configuration and writing about it in the docs, adding their great headless CMS to the mix.
-
-## License
 
 [MIT](https://github.com/samuelhorn/jamdocs/blob/master/LICENSE)
 
-## Finally
+## Ну наконец то
 
-Enjoy Jamdocs, and if you like and use this project commercially, please consider sponsoring on Github since I have put a lot of spare time into this.
+Наслаждайтесь Jamdocs, и если вам нравится этот проект и вы используете его в коммерческих целях, рассмотрите возможность спонсирования на Github, поскольку я потратил на это много свободного времени.
